@@ -1,0 +1,68 @@
+{
+  "title": "Safety First: Achieving Zero Incidents in Industrial Projects",
+  "slug": "safety-first-zero-incidents",
+  "subtitle": "Our Proven Approach to Maintaining Impeccable Safety Records",
+  "excerpt": "Discover how Okochris Engineering maintains zero safety incidents across all projects through rigorous protocols, proper training, and unwavering commitment to safety standards.",
+  "content": "<h2>The Foundation of Safety Excellence</h2><p>At Okochris Engineering, safety is not just a policy—it's a culture embedded in every aspect of our operations. Our zero-incident track record is the result of systematic planning, continuous training, and strict adherence to international safety standards.</p><h2>Our Safety Framework</h2><p>We implement a comprehensive safety management system that includes proper site induction, hazard identification and risk assessment, detailed method statements for all activities, and mandatory PPE compliance. Every team member undergoes regular safety training and certification.</p><h2>Proactive Risk Management</h2><p>Before any work begins, our safety officers conduct thorough site assessments to identify potential hazards. We develop specific method statements for each task, ensuring that every team member understands the risks and the measures in place to mitigate them.</p>",
+  "status": "published",
+  "visibility": "public",
+  "author": {
+    "id": "YOUR_USER_ID",
+    "name": "Safety Team"
+  },
+  "category": {
+    "id": "safety-quality",
+    "name": "Safety & Quality",
+    "slug": "safety-quality"
+  },
+  "tags": [
+    {
+      "id": "safety",
+      "name": "Safety",
+      "slug": "safety"
+    },
+    {
+      "id": "quality-assurance",
+      "name": "Quality Assurance",
+      "slug": "quality-assurance"
+    },
+    {
+      "id": "best-practices",
+      "name": "Best Practices",
+      "slug": "best-practices"
+    }
+  ],
+  "featuredMedia": {
+    "type": "image",
+    "url": "/okochris-images/EngineeringKnowledge-Hub/Img2.png",
+    "alt": "Safety First - Zero Incidents",
+    "caption": "Maintaining impeccable safety records through rigorous protocols"
+  },
+  "meta": {
+    "title": "Safety First: Achieving Zero Incidents in Industrial Projects",
+    "description": "Discover how Okochris Engineering maintains zero safety incidents across all projects through rigorous protocols and unwavering commitment to safety standards.",
+    "keywords": [
+      "safety",
+      "zero incidents",
+      "industrial safety",
+      "quality assurance",
+      "risk management",
+      "PPE"
+    ]
+  },
+  "stats": {
+    "views": 0,
+    "likes": 0,
+    "shares": 0,
+    "readingTime": 4,
+    "commentCount": 0
+  },
+  "isPromoted": false,
+  "isFeatured": true,
+  "isPremium": false,
+  "allowComments": true,
+  "relatedPosts": [],
+  "version": 1,
+  "lastModifiedBy": "YOUR_USER_ID",
+  "publishedAt": "2026-04-15T00:00:00.000Z"
+}

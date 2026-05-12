@@ -1,0 +1,318 @@
+{
+  "siteContent": {
+    "home": {
+      "section1": {
+        "title": "Engineering Excellence",
+        "body": "Delivering world-class engineering solutions with precision, innovation, and commitment to excellence.",
+        "overline": "Oko Chris Engineering Ltd",
+        "image": "/okochris-images/hero-slider/slider-1.png",
+        "buttons": [
+          { "title": "EXPLORE SERVICES", "href": "/services" },
+          { "title": "VIEW PROJECTS", "href": "/projects" }
+        ]
+      },
+      "section2": {
+        "title": "Our Stats",
+        "body": "Proven track record of excellence and client satisfaction.",
+        "items": [
+          { "title": "7+", "subtitle": "MAJOR PROJECTS", "body": "" },
+          { "title": "5+", "subtitle": "KEY CLIENTS", "body": "" },
+          { "title": "ZERO", "subtitle": "SAFETY INCIDENTS", "body": "" },
+          { "title": "100%", "subtitle": "QUALITY STANDARD", "body": "" }
+        ]
+      },
+      "section3": {
+        "title": "Quality Assurance",
+        "body": "Every project executed by Okochris Engineering Limited is governed by a quality plan that defines inspection and test requirements, hold points, release criteria, and documentation standards."
+      },
+      "section4": {
+        "title": "Quality Standards",
+        "body": "ISO-compliant quality management systems with inspection and test requirements at every stage."
+      },
+      "section5": {
+        "title": "Core Values",
+        "body": "Non-negotiable principles governing every decision, conversation, and project execution.",
+        "items": [
+          {
+            "title": "Integrity",
+            "body": "We are honest about what we can deliver, transparent when challenges arise, and consistent in doing what we say we will do. Integrity is the foundation of every relationship we hold, whether with clients, partners, host communities, or our own team members."
+          },
+          {
+            "title": "Innovation",
+            "body": "The most effective engineering solutions are not always the most obvious ones. We invest in finding better methods, smarter processes, and more efficient approaches to the challenges our clients face, because in engineering, how you deliver is as important as whether you deliver."
+          },
+          {
+            "title": "Resilience",
+            "body": "Nigeria's operating environment is complex. Supply chains can be unpredictable, site conditions can change, and project timelines face real-world pressure. Our team is trained and conditioned to solve problems, maintain quality under pressure, and deliver results regardless of the obstacles."
+          },
+          {
+            "title": "Leadership",
+            "body": "We lead through the quality of our work, the clarity of our communication, and the accountability of our people. Leadership at Okochris is not a title; it is a standard of conduct that we expect from every member of the team on every site, every day."
+          }
+        ]
+      },
+      "section6": {
+        "title": "Engineering Services",
+        "body": "Comprehensive engineering solutions for your business needs.",
+        "items": [
+          {
+            "title": "Piping & Pipelines",
+            "body": "Comprehensive piping solutions for industrial and commercial applications.",
+            "image": "/okochris-images/Engineering-services/Img1.png"
+          },
+          {
+            "title": "Mechanical Structures",
+            "body": "Design and fabrication of robust mechanical structures.",
+            "image": "/okochris-images/Engineering-services/Img2.png"
+          },
+          {
+            "title": "Surface Treatment",
+            "body": "Advanced surface treatment and coating services.",
+            "image": "/okochris-images/Engineering-services/Img3.png"
+          },
+          {
+            "title": "Equipment Fabrication",
+            "body": "Custom equipment fabrication and installation.",
+            "image": "/okochris-images/Engineering-services/Img4.png"
+          }
+        ]
+      },
+      "section7": {
+        "title": "Our Vision",
+        "body": "To be the customer's delight, operating in a quality, profitable, and responsible manner. Providing exclusive services that give customers confidence and pride — a certificate lift."
+      },
+      "section8": {
+        "title": "Our Partners",
+        "body": "Trusted by leading organizations worldwide.",
+        "items": [
+          { "title": "Partner 1", "body": "", "image": "/okochris-images/partners/partner1.png" },
+          { "title": "Partner 2", "body": "", "image": "/okochris-images/partners/partner2.png" },
+          { "title": "Partner 3", "body": "", "image": "/okochris-images/partners/partner3.png" },
+          { "title": "Partner 4", "body": "", "image": "/okochris-images/partners/partner4.png" }
+        ]
+      },
+      "section9": {
+        "title": "Engineering Knowledge Hub",
+        "body": "Industry insights, technical deep-dives, and project updates from Nigeria's leading engineering firm.",
+        "items": [
+          {
+            "title": "Safety First: Achieving Zero Incidents",
+            "body": "Our proven approach to maintaining impeccable safety records.",
+            "image": "/okochris-images/EngineeringKnowledge-Hub/Img1.png",
+            "href": "/blog"
+          },
+          {
+            "title": "Mechanical Structures Excellence",
+            "body": "Technical deep-dive into fabrication and installation.",
+            "image": "/okochris-images/EngineeringKnowledge-Hub/Img2.png",
+            "href": "/blog"
+          },
+          {
+            "title": "Future of Nigerian Engineering",
+            "body": "Local expertise meets global standards.",
+            "image": "/okochris-images/EngineeringKnowledge-Hub/Img3.png",
+            "href": "/blog"
+          }
+        ]
+      }
+    },
+    "about": {
+      "section1": {
+        "title": "About OKOCHRIS Engineering",
+        "body": "We are an ISO-certified engineering company delivering top-tier mechanical and civil engineering services to international standards. Built on integrity, innovation, and a relentless commitment to quality."
+      },
+      "section2": {
+        "title": "Who We Are",
+        "body": "Okochris Engineering Limited is a Nigerian-based mechanical and civil engineering company specializing in the design, fabrication, installation, and maintenance of industrial systems. We serve clients across the oil & gas, cement, power, and manufacturing sectors, delivering projects that meet the highest international standards for quality, safety, and performance."
+      },
+      "section3": {
+        "title": "Our Vision",
+        "body": "To be the customer's delight, operating in a quality, profitable, and responsible manner."
+      },
+      "section4": {
+        "title": "Our Mission",
+        "body": "Providing exclusive services that give customers confidence and pride — a certificate lift."
+      },
+      "section5": {
+        "title": "Core Values",
+        "body": "Non-negotiable principles governing every decision, conversation, and project execution.",
+        "items": [
+          {
+            "title": "Integrity",
+            "body": "We are honest about what we can deliver, transparent when challenges arise, and consistent in doing what we say we will do. Integrity is the foundation of every relationship we hold, whether with clients, partners, host communities, or our own team members."
+          },
+          {
+            "title": "Innovation",
+            "body": "The most effective engineering solutions are not always the most obvious ones. We invest in finding better methods, smarter processes, and more efficient approaches to the challenges our clients face, because in engineering, how you deliver is as important as whether you deliver."
+          },
+          {
+            "title": "Resilience",
+            "body": "Nigeria's operating environment is complex. Supply chains can be unpredictable, site conditions can change, and project timelines face real-world pressure. Our team is trained and conditioned to solve problems, maintain quality under pressure, and deliver results regardless of the obstacles."
+          },
+          {
+            "title": "Leadership",
+            "body": "We lead through the quality of our work, the clarity of our communication, and the accountability of our people. Leadership at Okochris is not a title; it is a standard of conduct that we expect from every member of the team on every site, every day."
+          }
+        ]
+      }
+    },
+    "services": {
+      "section1": {
+        "title": "Engineering Services",
+        "body": "Comprehensive mechanical and civil engineering solutions for industrial facilities across Nigeria."
+      },
+      "section2": {
+        "title": "Our Services",
+        "body": "Complete engineering solutions from design to commissioning",
+        "items": [
+          {
+            "title": "Piping & Pipeline Installation",
+            "body": "Design, fabrication, construction and installation of process piping and pipeline systems for oil and gas and petrochemical facilities. Competent in interpretation of isometric drawings, weld procedure qualification, NDT coordination, pressure testing, and final documentation handover.",
+            "image": "/okochris-images/Engineering-services/Img1.png",
+            "capabilities": ["Process piping fabrication", "Pipeline installation", "Pressure testing", "NDT coordination"]
+          },
+          {
+            "title": "Mechanical Structures",
+            "body": "Fabrication and installation of steel structures including pipe racks, gallery structures, equipment frameworks, and structural supports. Delivering structural scopes that meet dimensional accuracy, load-bearing, and surface treatment specifications.",
+            "image": "/okochris-images/Engineering-services/Img2.png",
+            "capabilities": ["Steel structures", "Gallery structures", "Pipe racks", "Equipment frameworks"]
+          },
+          {
+            "title": "Surface Treatment",
+            "body": "Sandblasting, painting, and coating services for industrial equipment and structures. Our surface treatment work meets NACE and SSPC standards, ensuring long-term corrosion protection and equipment longevity.",
+            "image": "/okochris-images/Engineering-services/Img3.png",
+            "capabilities": ["Sandblasting", "Industrial painting", "Protective coatings", "NACE standards"]
+          },
+          {
+            "title": "Equipment Fabrication & Assembly",
+            "body": "Custom fabrication of industrial equipment including tanks, vessels, skids, and process equipment. We work with carbon steel, stainless steel, and specialized alloys to deliver equipment that meets client specifications.",
+            "image": "/okochris-images/Engineering-services/Img4.png",
+            "capabilities": ["Tank fabrication", "Vessel construction", "Equipment skids", "Custom metalwork"]
+          },
+          {
+            "title": "Maintenance & Shutdown",
+            "body": "Planned maintenance and turnaround services for industrial facilities. We provide skilled manpower and project management for scheduled shutdowns, ensuring minimal downtime and maximum efficiency.",
+            "image": "/okochris-images/Engineering-services/Img1.png",
+            "capabilities": ["Shutdown services", "Preventive maintenance", "Emergency repairs", "Technical manpower"]
+          },
+          {
+            "title": "Equipment Leasing",
+            "body": "Short-term and long-term leasing of construction and industrial equipment including welding machines, generators, compressors, and lifting equipment. Flexible rental terms with technical support included.",
+            "image": "/okochris-images/Engineering-services/Img2.png",
+            "capabilities": ["Welding equipment", "Power generators", "Lifting equipment", "Flexible terms"]
+          },
+          {
+            "title": "Manpower Supply",
+            "body": "Provision of skilled technical manpower for industrial projects including welders, fitters, riggers, and specialized technicians. All personnel are certified and experienced in their respective fields.",
+            "image": "/okochris-images/Engineering-services/Img3.png",
+            "capabilities": ["Certified welders", "Skilled fitters", "Experienced riggers", "Technical specialists"]
+          }
+        ]
+      }
+    },
+    "contact": {
+      "section1": {
+        "title": "Get In Touch",
+        "body": "Have a project in mind? Let's discuss how we can deliver international-standard engineering services for your facility."
+      }
+    }
+  },
+  "systemSettings": {
+    "siteName": "Oko Chris Engineering Ltd",
+    "siteLogo": "/okochris-images/logo/OKOCHRIS-LOGO-white 1.png",
+    "siteIcon": "",
+    "siteUrl": "https://okochrisengineering.com",
+    "siteSlogan": "Engineering Excellence",
+    "siteGraphImage": "",
+    "siteKeywords": [
+      "engineering",
+      "mechanical engineering",
+      "civil engineering",
+      "piping",
+      "pipelines",
+      "Nigeria",
+      "oil and gas",
+      "cement",
+      "industrial"
+    ],
+    "siteDescription": "Nigerian-owned mechanical and civil engineering firm delivering international-standard services to oil & gas, cement, and industrial sectors.",
+    "siteAuthor": "Oko Chris Engineering Ltd",
+    "siteLocale": "en_NG",
+    "siteType": "website",
+    "ogTitle": "Oko Chris Engineering Ltd - Engineering Excellence",
+    "ogDescription": "Nigerian-owned mechanical and civil engineering firm delivering international-standard services.",
+    "ogImage": "",
+    "ogImageAlt": "Oko Chris Engineering Ltd",
+    "twitterCard": "summary_large_image",
+    "twitterSite": "@okochriseng",
+    "twitterCreator": "@okochriseng",
+    "twitterTitle": "Oko Chris Engineering Ltd",
+    "twitterDescription": "Engineering excellence and innovation.",
+    "twitterImage": "",
+    "maintenanceMode": false,
+    "headerLinks": [
+      { "label": "HOME", "href": "/" },
+      { "label": "ABOUT", "href": "/about" },
+      { "label": "SERVICES", "href": "/services" },
+      { "label": "FEATURES", "href": "#" },
+      { "label": "BLOG", "href": "/blog" },
+      { "label": "CONTACT US", "href": "/contact", "isButton": true }
+    ],
+    "footerLinks": [
+      {
+        "section": "Quick Links",
+        "links": [
+          { "label": "Home", "href": "/" },
+          { "label": "About Us", "href": "/about" },
+          { "label": "Our Services", "href": "/services" },
+          { "label": "Projects", "href": "/projects" },
+          { "label": "Clients", "href": "/about#clients" },
+          { "label": "Safety & Quality", "href": "/safety" },
+          { "label": "Blog", "href": "/blog" },
+          { "label": "Contact", "href": "/contact" }
+        ]
+      },
+      {
+        "section": "Our Services",
+        "links": [
+          { "label": "Piping & Pipelines", "href": "/services" },
+          { "label": "Mechanical Structures", "href": "/services" },
+          { "label": "Surface Treatment", "href": "/services" },
+          { "label": "Equipment Fabrication", "href": "/services" },
+          { "label": "Maintenance & Shutdown", "href": "/services" },
+          { "label": "Equipment Leasing", "href": "/services" },
+          { "label": "Manpower Supply", "href": "/services" }
+        ]
+      },
+      {
+        "section": "Contact Us",
+        "links": [
+          { "label": "#11 Olusegun Close, Kula Nla Ekpe LGA, Lagos, Nigeria", "href": "#" },
+          { "label": "+234 702 672 3574", "href": "tel:+2347026723574" },
+          { "label": "+234 802 590 9525", "href": "tel:+2348025909525" },
+          { "label": "hr.okochris@gmail.com", "href": "mailto:hr.okochris@gmail.com" }
+        ]
+      }
+    ],
+    "socialLinks": [
+      { "label": "WhatsApp", "href": "#", "icon": "whatsapp" },
+      { "label": "LinkedIn", "href": "#", "icon": "linkedin" },
+      { "label": "Instagram", "href": "#", "icon": "instagram" },
+      { "label": "Facebook", "href": "#", "icon": "facebook" },
+      { "label": "X", "href": "#", "icon": "x" }
+    ],
+    "contact": {
+      "email": "hr.okochris@gmail.com",
+      "phones": ["+234 702 672 3574", "+234 802 590 9525"],
+      "whatsappPhone": "+234 802 590 9525",
+      "addresses": [
+        {
+          "country": "Nigeria",
+          "phone": "+234 702 672 3574",
+          "address": "#11 Olusegun Close, Kula Nla Ekpe LGA, Lagos, Nigeria"
+        }
+      ],
+      "map": ""
+    }
+  }
+}

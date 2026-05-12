@@ -1,0 +1,268 @@
+{
+  "home": {
+    "section1": {
+      "title": "Engineering Excellence",
+      "body": "Nigerian-owned mechanical and civil engineering firm delivering international-standard services to oil & gas, cement, and industrial sectors.",
+      "overline": "Oko Chris Engineering Ltd",
+      "image": "/okochris-images/hero-slider/slider-1.png"
+    },
+    "section2": {
+      "title": "Our Impact",
+      "body": "",
+      "overline": "",
+      "items": [
+        { "title": "7+", "subtitle": "Major Projects", "body": "" },
+        { "title": "5+", "subtitle": "Key Clients", "body": "" },
+        { "title": "ZERO", "subtitle": "Safety Incidents", "body": "" },
+        { "title": "100%", "subtitle": "Quality Standard", "body": "" }
+      ]
+    },
+    "section3": {
+      "title": "Why Choose Okochris",
+      "body": "We combine local expertise with international standards to deliver exceptional engineering solutions tailored to your unique needs.",
+      "overline": "",
+      "items": [
+        {
+          "title": "Local Expertise, Global Standards",
+          "body": "We understand the Nigerian market while maintaining international quality standards in everything we do.",
+          "subtitle": ""
+        },
+        {
+          "title": "End-to-End Solutions",
+          "body": "From concept to execution, we handle every aspect of your engineering needs with precision and care.",
+          "subtitle": ""
+        },
+        {
+          "title": "Proven Track Record",
+          "body": "Years of delivering excellence across piping, mechanical structures, and industrial equipment fabrication.",
+          "subtitle": ""
+        }
+      ]
+    },
+    "section4": {
+      "title": "Engineering Services",
+      "body": "Comprehensive engineering solutions designed to elevate your business and exceed expectations.",
+      "overline": "",
+      "items": [
+        {
+          "title": "Piping & Pipeline Installation",
+          "body": "Design, fabrication, construction and installation of process piping and pipeline systems for oil and gas facilities.",
+          "subtitle": "",
+          "image": "/okochris-images/Engineering-services/Img1.png"
+        },
+        {
+          "title": "Mechanical Structures",
+          "body": "Design, fabrication and installation of pipe racks, equipment supports, and structural steel for industrial facilities.",
+          "subtitle": "",
+          "image": "/okochris-images/Engineering-services/Img2.png"
+        },
+        {
+          "title": "Surface Treatment & Coating",
+          "body": "Comprehensive surface preparation, blasting, painting and coating services for industrial equipment and structures.",
+          "subtitle": "",
+          "image": "/okochris-images/Engineering-services/Img3.png"
+        },
+        {
+          "title": "Equipment Fabrication",
+          "body": "Custom fabrication and installation of pressure vessels, tanks, heat exchangers, and process equipment.",
+          "subtitle": "",
+          "image": "/okochris-images/Engineering-services/Img4.png"
+        }
+      ]
+    },
+    "section5": {
+      "title": "Our Vision",
+      "body": "To be the customer's delight, operating in a quality, profitable, and responsible manner. Providing exclusive services that give customers confidence and pride.",
+      "overline": ""
+    },
+    "section6": {
+      "title": "Ready to Start Your Project?",
+      "body": "Let's discuss how OKOCHRIS Engineering can deliver international-standard services for your industrial facility.",
+      "overline": ""
+    }
+  },
+  "about": {
+    "section1": {
+      "title": "About OKOCHRIS Engineering",
+      "body": "Your trusted partner in engineering excellence. We transform challenges into opportunities with local expertise and global standards.",
+      "overline": "About Us"
+    },
+    "section2": {
+      "title": "Who We Are",
+      "body": "Okochris Engineering Limited is a Nigerian-based mechanical and civil engineering company specializing in the design, fabrication, installation, and maintenance of industrial systems. We serve clients across the oil & gas, cement, power, and manufacturing sectors.",
+      "overline": ""
+    },
+    "section3": {
+      "title": "Our Vision",
+      "body": "To be the customer's delight, operating in a quality, profitable, and responsible manner.",
+      "overline": ""
+    },
+    "section4": {
+      "title": "Our Mission",
+      "body": "Providing exclusive services that give customers confidence and pride — a certificate lift.",
+      "overline": ""
+    },
+    "section5": {
+      "title": "Core Values",
+      "body": "Non-negotiable principles governing every decision, conversation, and project execution.",
+      "overline": "",
+      "items": [
+        {
+          "title": "Integrity",
+          "body": "We are honest about what we can deliver, transparent when challenges arise, and consistent in doing what we say we will do.",
+          "subtitle": ""
+        },
+        {
+          "title": "Innovation",
+          "body": "The most effective engineering solutions are not always the most obvious ones. We invest in finding better methods and smarter processes.",
+          "subtitle": ""
+        },
+        {
+          "title": "Resilience",
+          "body": "Our team is trained and conditioned to solve problems, maintain quality under pressure, and deliver results regardless of obstacles.",
+          "subtitle": ""
+        },
+        {
+          "title": "Leadership",
+          "body": "We lead through the quality of our work, the clarity of our communication, and the accountability of our people.",
+          "subtitle": ""
+        }
+      ]
+    },
+    "section6": {
+      "title": "Our Value Proposition",
+      "body": "What sets us apart in the engineering industry.",
+      "overline": "",
+      "items": [
+        {
+          "title": "Local Expertise",
+          "body": "Deep understanding of the Nigerian market, regulations, and operational challenges.",
+          "subtitle": ""
+        },
+        {
+          "title": "Global Standards",
+          "body": "International quality standards and best practices in all our services.",
+          "subtitle": ""
+        },
+        {
+          "title": "End-to-End Solutions",
+          "body": "Comprehensive services from concept to execution and ongoing support.",
+          "subtitle": ""
+        }
+      ]
+    },
+    "section7": {
+      "title": "Our Track Record",
+      "body": "Numbers that speak for themselves.",
+      "overline": "",
+      "items": [
+        { "title": "7+", "subtitle": "Major Projects", "body": "" },
+        { "title": "5+", "subtitle": "Key Clients", "body": "" },
+        { "title": "ZERO", "subtitle": "Safety Incidents", "body": "" },
+        { "title": "100%", "subtitle": "Quality Standard", "body": "" }
+      ]
+    },
+    "section9": {
+      "title": "Ready to Start Your Project?",
+      "body": "Let's discuss how we can deliver international-standard engineering services for your facility.",
+      "overline": ""
+    }
+  },
+  "services": {
+    "section1": {
+      "title": "Engineering Services",
+      "body": "Comprehensive mechanical and civil engineering solutions for industrial facilities across Nigeria.",
+      "overline": ""
+    },
+    "section2": {
+      "title": "Piping & Pipeline Installation",
+      "body": "Design, fabrication, construction and installation of process piping and pipeline systems for oil and gas and petrochemical facilities. Competent in interpretation of isometric drawings, weld procedure qualification, NDT coordination, pressure testing, and final documentation handover.",
+      "overline": "",
+      "items": [
+        { "title": "Process piping fabrication", "body": "", "subtitle": "" },
+        { "title": "Pipeline installation", "body": "", "subtitle": "" },
+        { "title": "Pressure testing", "body": "", "subtitle": "" },
+        { "title": "NDT coordination", "body": "", "subtitle": "" },
+        { "title": "Weld procedure qualification", "body": "", "subtitle": "" },
+        { "title": "ISO compliance", "body": "", "subtitle": "" }
+      ]
+    },
+    "section3": {
+      "title": "Mechanical Structures",
+      "body": "Design, fabrication and installation of pipe racks, equipment supports, gallery systems, and structural steel for industrial facilities. Full compliance with structural codes and load calculations.",
+      "overline": "",
+      "items": [
+        { "title": "Pipe rack fabrication", "body": "", "subtitle": "" },
+        { "title": "Equipment supports", "body": "", "subtitle": "" },
+        { "title": "Gallery systems", "body": "", "subtitle": "" },
+        { "title": "Structural steel work", "body": "", "subtitle": "" },
+        { "title": "Load calculations", "body": "", "subtitle": "" },
+        { "title": "Code compliance", "body": "", "subtitle": "" }
+      ]
+    },
+    "section4": {
+      "title": "Surface Treatment & Coating",
+      "body": "Comprehensive surface preparation, blasting, painting and coating services for industrial equipment and structures. Application of protective coatings to international standards for corrosion protection.",
+      "overline": "",
+      "items": [
+        { "title": "Sandblasting services", "body": "", "subtitle": "" },
+        { "title": "Industrial painting", "body": "", "subtitle": "" },
+        { "title": "Protective coatings", "body": "", "subtitle": "" },
+        { "title": "Corrosion protection", "body": "", "subtitle": "" },
+        { "title": "NACE standards", "body": "", "subtitle": "" },
+        { "title": "Surface preparation", "body": "", "subtitle": "" }
+      ]
+    },
+    "section5": {
+      "title": "Equipment Fabrication & Installation",
+      "body": "Custom fabrication and installation of pressure vessels, tanks, heat exchangers, and process equipment. Complete with material traceability, weld documentation, and commissioning support.",
+      "overline": "",
+      "items": [
+        { "title": "Pressure vessel fabrication", "body": "", "subtitle": "" },
+        { "title": "Tank construction", "body": "", "subtitle": "" },
+        { "title": "Heat exchanger installation", "body": "", "subtitle": "" },
+        { "title": "Process equipment", "body": "", "subtitle": "" },
+        { "title": "Material traceability", "body": "", "subtitle": "" },
+        { "title": "Commissioning support", "body": "", "subtitle": "" }
+      ]
+    },
+    "section6": {
+      "title": "Maintenance & Shutdown Services",
+      "body": "Planned maintenance, turnaround management, and emergency shutdown support for industrial facilities. Experienced in coordinating multi-discipline teams for time-critical projects.",
+      "overline": "",
+      "items": [
+        { "title": "Planned maintenance", "body": "", "subtitle": "" },
+        { "title": "Turnaround management", "body": "", "subtitle": "" },
+        { "title": "Emergency repairs", "body": "", "subtitle": "" },
+        { "title": "Multi-discipline coordination", "body": "", "subtitle": "" },
+        { "title": "Shutdown planning", "body": "", "subtitle": "" },
+        { "title": "Technical support", "body": "", "subtitle": "" }
+      ]
+    },
+    "section7": {
+      "title": "Equipment Leasing & Manpower Supply",
+      "body": "Rental and leasing of construction equipment, welding machines, and provision of skilled certified personnel for industrial projects.",
+      "overline": "",
+      "items": [
+        { "title": "Equipment rental", "body": "", "subtitle": "" },
+        { "title": "Welding machines", "body": "", "subtitle": "" },
+        { "title": "Certified welders", "body": "", "subtitle": "" },
+        { "title": "Pipe fitters", "body": "", "subtitle": "" },
+        { "title": "Riggers & operators", "body": "", "subtitle": "" },
+        { "title": "Project supervisors", "body": "", "subtitle": "" }
+      ]
+    },
+    "section8": {
+      "title": "Ready to Start Your Project?",
+      "body": "Let's discuss how we can deliver international-standard engineering services for your facility.",
+      "overline": ""
+    }
+  },
+  "contact": {
+    "section1": {
+      "title": "Get In Touch",
+      "body": "Have a project in mind? Let's discuss how we can deliver international-standard engineering services for your facility.",
+      "overline": "Contact Us"
+    }
+  }
+}

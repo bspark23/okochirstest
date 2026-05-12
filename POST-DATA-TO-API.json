@@ -1,0 +1,287 @@
+{
+  "home": {
+    "section1": {
+      "title": "Engineering Excellence",
+      "body": "Nigerian-owned mechanical and civil engineering firm delivering international-standard services to oil & gas, cement, and industrial sectors.",
+      "overline": "Oko Chris Engineering Ltd",
+      "image": "/okochris-images/hero-slider/slider-1.png",
+      "buttons": [
+        {
+          "title": "Our Services",
+          "href": "/services"
+        },
+        {
+          "title": "Contact Us",
+          "href": "/contact"
+        }
+      ]
+    },
+    "section2": {
+      "title": "Our Impact",
+      "body": "",
+      "overline": "",
+      "items": [
+        { "title": "7+", "subtitle": "Major Projects", "body": "" },
+        { "title": "5+", "subtitle": "Key Clients", "body": "" },
+        { "title": "ZERO", "subtitle": "Safety Incidents", "body": "" },
+        { "title": "100%", "subtitle": "Quality Standard", "body": "" }
+      ]
+    },
+    "section2a": {
+      "title": "Quality Assurance",
+      "body": "We maintain ISO-compliant quality management systems and have achieved zero safety incidents across all our projects.",
+      "overline": ""
+    },
+    "section2b": {
+      "title": "Quality Standards",
+      "body": "",
+      "overline": "",
+      "items": [
+        { "title": "ISO-compliant quality management systems", "body": "", "subtitle": "" },
+        { "title": "Inspection and test requirements at every stage", "body": "", "subtitle": "" },
+        { "title": "Hold points and release criteria documentation", "body": "", "subtitle": "" },
+        { "title": "QA/QC personnel on every active project site", "body": "", "subtitle": "" },
+        { "title": "Material verification and traceability", "body": "", "subtitle": "" },
+        { "title": "Non-destructive testing coordination", "body": "", "subtitle": "" },
+        { "title": "Pressure testing and final documentation", "body": "", "subtitle": "" },
+        { "title": "Third-party inspection interface", "body": "", "subtitle": "" }
+      ]
+    },
+    "section3": {
+      "title": "Core Values",
+      "body": "Non-negotiable principles governing every decision, conversation, and project execution.",
+      "overline": "",
+      "items": [
+        {
+          "title": "Integrity",
+          "body": "We are honest about what we can deliver, transparent when challenges arise, and consistent in doing what we say we will do.",
+          "subtitle": ""
+        },
+        {
+          "title": "Innovation",
+          "body": "The most effective engineering solutions are not always the most obvious ones. We invest in finding better methods and smarter processes.",
+          "subtitle": ""
+        },
+        {
+          "title": "Resilience",
+          "body": "Our team is trained and conditioned to solve problems, maintain quality under pressure, and deliver results regardless of obstacles.",
+          "subtitle": ""
+        },
+        {
+          "title": "Leadership",
+          "body": "We lead through the quality of our work, the clarity of our communication, and the accountability of our people.",
+          "subtitle": ""
+        }
+      ]
+    },
+    "section4": {
+      "title": "Engineering Services",
+      "body": "Comprehensive engineering solutions designed to elevate your business and exceed expectations.",
+      "overline": "",
+      "items": [
+        {
+          "title": "Piping & Pipeline Installation",
+          "body": "Design, fabrication, construction and installation of process piping and pipeline systems for oil and gas facilities.",
+          "subtitle": "",
+          "image": "/okochris-images/Engineering-services/Img1.png"
+        },
+        {
+          "title": "Mechanical Structures",
+          "body": "Design, fabrication and installation of pipe racks, equipment supports, and structural steel for industrial facilities.",
+          "subtitle": "",
+          "image": "/okochris-images/Engineering-services/Img2.png"
+        },
+        {
+          "title": "Surface Treatment & Coating",
+          "body": "Comprehensive surface preparation, blasting, painting and coating services for industrial equipment and structures.",
+          "subtitle": "",
+          "image": "/okochris-images/Engineering-services/Img3.png"
+        },
+        {
+          "title": "Equipment Fabrication",
+          "body": "Custom fabrication and installation of pressure vessels, tanks, heat exchangers, and process equipment.",
+          "subtitle": "",
+          "image": "/okochris-images/Engineering-services/Img4.png"
+        }
+      ]
+    },
+    "section5": {
+      "title": "Our Vision",
+      "body": "To be the customer's delight, operating in a quality, profitable, and responsible manner. Providing exclusive services that give customers confidence and pride.",
+      "overline": ""
+    },
+    "section6": {
+      "title": "Ready to Start Your Project?",
+      "body": "Let's discuss how OKOCHRIS Engineering can deliver international-standard services for your industrial facility.",
+      "overline": ""
+    }
+  },
+  "about": {
+    "section1": {
+      "title": "About OKOCHRIS Engineering",
+      "body": "Your trusted partner in engineering excellence. We transform challenges into opportunities with local expertise and global standards.",
+      "overline": "About Us"
+    },
+    "section2": {
+      "title": "Who We Are",
+      "body": "Okochris Engineering Limited is a Nigerian-based mechanical and civil engineering company specializing in the design, fabrication, installation, and maintenance of industrial systems. We serve clients across the oil & gas, cement, power, and manufacturing sectors.",
+      "overline": ""
+    },
+    "section3": {
+      "title": "Our Vision",
+      "body": "To be the customer's delight, operating in a quality, profitable, and responsible manner.",
+      "overline": ""
+    },
+    "section4": {
+      "title": "Our Mission",
+      "body": "Providing exclusive services that give customers confidence and pride — a certificate lift.",
+      "overline": ""
+    },
+    "section5": {
+      "title": "Core Values",
+      "body": "Non-negotiable principles governing every decision, conversation, and project execution.",
+      "overline": "",
+      "items": [
+        {
+          "title": "Integrity",
+          "body": "We are honest about what we can deliver, transparent when challenges arise, and consistent in doing what we say we will do.",
+          "subtitle": ""
+        },
+        {
+          "title": "Innovation",
+          "body": "The most effective engineering solutions are not always the most obvious ones. We invest in finding better methods and smarter processes.",
+          "subtitle": ""
+        },
+        {
+          "title": "Resilience",
+          "body": "Our team is trained and conditioned to solve problems, maintain quality under pressure, and deliver results regardless of obstacles.",
+          "subtitle": ""
+        },
+        {
+          "title": "Leadership",
+          "body": "We lead through the quality of our work, the clarity of our communication, and the accountability of our people.",
+          "subtitle": ""
+        }
+      ]
+    }
+  },
+  "services": {
+    "section1": {
+      "title": "Engineering Services",
+      "body": "Comprehensive mechanical and civil engineering solutions for industrial facilities across Nigeria.",
+      "overline": ""
+    },
+    "section2": {
+      "title": "Our Services",
+      "body": "",
+      "overline": "",
+      "items": [
+        {
+          "title": "Piping & Pipeline Installation",
+          "body": "Design, fabrication, construction and installation of process piping and pipeline systems for oil and gas and petrochemical facilities. Competent in interpretation of isometric drawings, weld procedure qualification, NDT coordination, pressure testing, and final documentation handover.",
+          "subtitle": "",
+          "image": "/okochris-images/services/Img1.png",
+          "capabilities": [
+            "Process piping fabrication",
+            "Pipeline installation",
+            "Pressure testing",
+            "NDT coordination",
+            "Weld procedure qualification",
+            "ISO compliance"
+          ]
+        },
+        {
+          "title": "Mechanical Structures",
+          "body": "Design, fabrication and installation of pipe racks, equipment supports, gallery systems, and structural steel for industrial facilities. Full compliance with structural codes and load calculations.",
+          "subtitle": "",
+          "image": "/okochris-images/services/Img2.png",
+          "capabilities": [
+            "Pipe rack fabrication",
+            "Equipment supports",
+            "Gallery systems",
+            "Structural steel work",
+            "Load calculations",
+            "Code compliance"
+          ]
+        },
+        {
+          "title": "Surface Treatment & Coating",
+          "body": "Comprehensive surface preparation, blasting, painting and coating services for industrial equipment and structures. Application of protective coatings to international standards for corrosion protection.",
+          "subtitle": "",
+          "image": "/okochris-images/services/Img3.png",
+          "capabilities": [
+            "Sandblasting services",
+            "Industrial painting",
+            "Protective coatings",
+            "Corrosion protection",
+            "NACE standards",
+            "Surface preparation"
+          ]
+        },
+        {
+          "title": "Equipment Fabrication & Installation",
+          "body": "Custom fabrication and installation of pressure vessels, tanks, heat exchangers, and process equipment. Complete with material traceability, weld documentation, and commissioning support.",
+          "subtitle": "",
+          "image": "/okochris-images/services/Img4.png",
+          "capabilities": [
+            "Pressure vessel fabrication",
+            "Tank construction",
+            "Heat exchanger installation",
+            "Process equipment",
+            "Material traceability",
+            "Commissioning support"
+          ]
+        },
+        {
+          "title": "Maintenance & Shutdown Services",
+          "body": "Planned maintenance, turnaround management, and emergency shutdown support for industrial facilities. Experienced in coordinating multi-discipline teams for time-critical projects.",
+          "subtitle": "",
+          "image": "/okochris-images/services/Img5.png",
+          "capabilities": [
+            "Planned maintenance",
+            "Turnaround management",
+            "Emergency repairs",
+            "Multi-discipline coordination",
+            "Shutdown planning",
+            "Technical support"
+          ]
+        },
+        {
+          "title": "Equipment Leasing & Manpower Supply",
+          "body": "Rental and leasing of construction equipment, welding machines, and provision of skilled certified personnel for industrial projects.",
+          "subtitle": "",
+          "image": "/okochris-images/services/Img6.png",
+          "capabilities": [
+            "Equipment rental",
+            "Welding machines",
+            "Certified welders",
+            "Pipe fitters",
+            "Riggers & operators",
+            "Project supervisors"
+          ]
+        },
+        {
+          "title": "Quality Control & Inspection",
+          "body": "Independent quality control and inspection services ensuring compliance with project specifications and international standards.",
+          "subtitle": "",
+          "image": "/okochris-images/services/Img7.png",
+          "capabilities": [
+            "Quality audits",
+            "NDT inspection",
+            "Material verification",
+            "Weld inspection",
+            "Documentation review",
+            "Compliance certification"
+          ]
+        }
+      ]
+    }
+  },
+  "contact": {
+    "section1": {
+      "title": "Get In Touch",
+      "body": "Have a project in mind? Let's discuss how we can deliver international-standard engineering services for your facility.",
+      "overline": "Contact Us"
+    }
+  }
+}

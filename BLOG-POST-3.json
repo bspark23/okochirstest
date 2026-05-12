@@ -1,0 +1,68 @@
+{
+  "title": "Mechanical Structures Excellence: From Design to Installation",
+  "slug": "mechanical-structures-excellence",
+  "subtitle": "Technical Deep-Dive into Fabrication and Installation",
+  "excerpt": "A comprehensive look at our approach to designing, fabricating, and installing mechanical structures for industrial facilities across Nigeria.",
+  "content": "<h2>Engineering Precision in Mechanical Structures</h2><p>Mechanical structures form the backbone of industrial facilities. At Okochris Engineering, we specialize in the complete lifecycle of mechanical structures—from initial design and engineering to fabrication, installation, and commissioning.</p><h2>Design and Engineering Excellence</h2><p>Our design process begins with detailed site surveys and client requirements analysis. We use advanced CAD software and structural analysis tools to create optimized designs that meet international standards while accounting for local conditions and constraints.</p><h2>Quality Fabrication Standards</h2><p>Our fabrication workshop is equipped with modern machinery and staffed by certified welders and fabricators. We maintain strict quality control throughout the fabrication process, with regular inspections and NDT testing to ensure structural integrity.</p>",
+  "status": "published",
+  "visibility": "public",
+  "author": {
+    "id": "YOUR_USER_ID",
+    "name": "Engineering Team"
+  },
+  "category": {
+    "id": "technical-insights",
+    "name": "Technical Insights",
+    "slug": "technical-insights"
+  },
+  "tags": [
+    {
+      "id": "mechanical-structures",
+      "name": "Mechanical Structures",
+      "slug": "mechanical-structures"
+    },
+    {
+      "id": "fabrication",
+      "name": "Fabrication",
+      "slug": "fabrication"
+    },
+    {
+      "id": "installation",
+      "name": "Installation",
+      "slug": "installation"
+    }
+  ],
+  "featuredMedia": {
+    "type": "image",
+    "url": "/okochris-images/EngineeringKnowledge-Hub/Img3.png",
+    "alt": "Mechanical Structures Excellence",
+    "caption": "Technical excellence in fabrication and installation"
+  },
+  "meta": {
+    "title": "Mechanical Structures Excellence: From Design to Installation",
+    "description": "A comprehensive look at our approach to designing, fabricating, and installing mechanical structures for industrial facilities across Nigeria.",
+    "keywords": [
+      "mechanical structures",
+      "fabrication",
+      "installation",
+      "engineering",
+      "industrial",
+      "quality control"
+    ]
+  },
+  "stats": {
+    "views": 0,
+    "likes": 0,
+    "shares": 0,
+    "readingTime": 5,
+    "commentCount": 0
+  },
+  "isPromoted": false,
+  "isFeatured": false,
+  "isPremium": false,
+  "allowComments": true,
+  "relatedPosts": [],
+  "version": 1,
+  "lastModifiedBy": "YOUR_USER_ID",
+  "publishedAt": "2026-04-10T00:00:00.000Z"
+}

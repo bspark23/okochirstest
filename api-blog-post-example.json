@@ -1,0 +1,56 @@
+{
+  "title": "Engineering Excellence in Nigeria Oil and Gas Sector",
+  "slug": "engineering-excellence-nigeria-oil-gas",
+  "subtitle": "Setting New Standards in Process Piping and Pipeline Installation",
+  "excerpt": "How local engineering firms are setting new standards in process piping and pipeline installation for international projects.",
+  "content": "<h2>The Evolution of Local Engineering Excellence</h2><p>Over the past decade, indigenous engineering companies have invested heavily in training, equipment, and quality management systems. This investment is paying off with major contracts from international oil companies.</p><h2>Our Capabilities</h2><p>At Okochris Engineering, we've demonstrated our capability to deliver complex piping and pipeline projects. Our team is competent in interpretation of isometric drawings, weld procedure qualification, NDT coordination, and pressure testing.</p><h2>Quality Standards and Safety Performance</h2><p>We maintain ISO-compliant quality management systems and have achieved zero safety incidents across all our projects. This track record speaks to our commitment to excellence.</p>",
+  "status": "published",
+  "visibility": "public",
+  "author": {
+    "id": "your_user_id_here",
+    "name": "Engineering Team"
+  },
+  "category": {
+    "id": "industry-outlook",
+    "name": "Industry Outlook",
+    "slug": "industry-outlook"
+  },
+  "tags": [
+    {
+      "id": "engineering",
+      "name": "Engineering",
+      "slug": "engineering"
+    },
+    {
+      "id": "oil-gas",
+      "name": "Oil & Gas",
+      "slug": "oil-gas"
+    }
+  ],
+  "featuredMedia": {
+    "type": "image",
+    "url": "/okochris-images/EngineeringKnowledge-Hub/Img1.png",
+    "alt": "Engineering Excellence in Nigeria",
+    "caption": "Engineering Excellence in Nigeria Oil and Gas Sector"
+  },
+  "meta": {
+    "title": "Engineering Excellence in Nigeria Oil and Gas Sector",
+    "description": "How local engineering firms are setting new standards in process piping and pipeline installation for international projects.",
+    "keywords": ["engineering", "nigeria", "oil-gas", "excellence", "piping", "pipeline"]
+  },
+  "stats": {
+    "views": 0,
+    "likes": 0,
+    "shares": 0,
+    "readingTime": 3,
+    "commentCount": 0
+  },
+  "isPromoted": false,
+  "isFeatured": true,
+  "isPremium": false,
+  "allowComments": true,
+  "relatedPosts": [],
+  "version": 1,
+  "lastModifiedBy": "your_user_id_here",
+  "publishedAt": "2026-04-20T00:00:00.000Z"
+}
