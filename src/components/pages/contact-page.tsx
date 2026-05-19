@@ -31,13 +31,28 @@ export default function ContactPage() {
     setIsSubmitting(true);
     setSubmitStatus(null);
 
+    const trimmedPhone = formData.phone.trim();
+    let phoneToSend: string | undefined = undefined;
+
+    if (trimmedPhone) {
+      // Clean phone number format for backend validation (+[code][number])
+      let cleanedPhone = trimmedPhone.replace(/[\s\-\(\)]/g, "");
+      if (cleanedPhone.startsWith("0")) {
+        phoneToSend = "+234" + cleanedPhone.slice(1);
+      } else if (!cleanedPhone.startsWith("+")) {
+        phoneToSend = "+" + cleanedPhone;
+      } else {
+        phoneToSend = cleanedPhone;
+      }
+    }
+
     try {
       await SubscriberService.subscribe({
-        name: formData.name,
-        email: formData.email,
-        phone: formData.phone,
-        type: "contact",
-        metadata: { message: formData.message },
+        name: formData.name.trim(),
+        email: formData.email.trim(),
+        ...(phoneToSend ? { phone: phoneToSend } : {}),
+        type: "enquiry",
+        metadata: { message: formData.message.trim() },
       });
 
       setSubmitStatus({

@@ -17,9 +17,9 @@ export default function BlogPage() {
     dispatch(fetchPosts({ filters: {}, page: 1, limit: 20 }));
   }, [dispatch]);
 
-  // Get featured and other posts from API
-  const featuredPost = posts.find(post => post.isFeatured);
-  const otherPosts = posts.filter(post => !post.isFeatured);
+  // Get featured and other posts from API (Newest post is featured, others go to secondary list)
+  const featuredPost = posts[0];
+  const otherPosts = posts.slice(1);
 
   // Format date helper
   const formatDate = (dateString: string) => {
