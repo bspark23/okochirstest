@@ -11,8 +11,10 @@ const inner = "max-w-[1440px] mx-auto px-5 md:px-[120px]";
 
 export default function ContactPage() {
   useContent();
-  const { contact } = useAppSelector((state) => state.content.content.siteContent);
-  const { contact: contactInfo } = useAppSelector((state) => state.content.content.systemSettings);
+  const siteContent = useAppSelector((state) => state.content.content.siteContent) || {};
+  const systemSettings = useAppSelector((state) => state.content.content.systemSettings) || {};
+  const contact = siteContent.contact;
+  const contactInfo = systemSettings.contact;
   const s1 = contact?.section1 as Section;
 
   const [formData, setFormData] = useState({
