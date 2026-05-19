@@ -178,83 +178,89 @@
       "title": "Piping & Pipeline Installation",
       "body": "Design, fabrication, construction and installation of process piping and pipeline systems for oil and gas and petrochemical facilities. Competent in interpretation of isometric drawings, weld procedure qualification, NDT coordination, pressure testing, and final documentation handover.",
       "overline": "",
+      "image": "/okochris-images/services/Img1.png",
       "items": [
         { "title": "Process piping fabrication", "body": "", "subtitle": "" },
-        { "title": "Pipeline installation", "body": "", "subtitle": "" },
         { "title": "Pressure testing", "body": "", "subtitle": "" },
-        { "title": "NDT coordination", "body": "", "subtitle": "" },
-        { "title": "Weld procedure qualification", "body": "", "subtitle": "" },
+        { "title": "Pipeline installation", "body": "", "subtitle": "" },
         { "title": "ISO compliance", "body": "", "subtitle": "" }
       ]
     },
     "section3": {
       "title": "Mechanical Structures",
-      "body": "Design, fabrication and installation of pipe racks, equipment supports, gallery systems, and structural steel for industrial facilities. Full compliance with structural codes and load calculations.",
+      "body": "Fabrication and installation of pipe rack steel structures, gallery steel structures, crusher station frameworks, and conveyor support structures. Delivering structural scopes that meet dimensional accuracy, load-bearing, and surface treatment specifications.",
       "overline": "",
+      "image": "/okochris-images/services/Img2.png",
       "items": [
-        { "title": "Pipe rack fabrication", "body": "", "subtitle": "" },
-        { "title": "Equipment supports", "body": "", "subtitle": "" },
-        { "title": "Gallery systems", "body": "", "subtitle": "" },
-        { "title": "Structural steel work", "body": "", "subtitle": "" },
-        { "title": "Load calculations", "body": "", "subtitle": "" },
-        { "title": "Code compliance", "body": "", "subtitle": "" }
+        { "title": "Steel structures", "body": "", "subtitle": "" },
+        { "title": "Gallery structures", "body": "", "subtitle": "" },
+        { "title": "Pipe racks", "body": "", "subtitle": "" },
+        { "title": "Equipment frameworks", "body": "", "subtitle": "" }
       ]
     },
     "section4": {
-      "title": "Surface Treatment & Coating",
-      "body": "Comprehensive surface preparation, blasting, painting and coating services for industrial equipment and structures. Application of protective coatings to international standards for corrosion protection.",
+      "title": "Surface Treatment",
+      "body": "Professional blasting and painting services executed to client specifications. Covers oil storage tanks, structural steel, and mechanical equipment with strict adherence to surface preparation standards and coating system requirements.",
       "overline": "",
+      "image": "/okochris-images/services/Img3.png",
       "items": [
-        { "title": "Sandblasting services", "body": "", "subtitle": "" },
-        { "title": "Industrial painting", "body": "", "subtitle": "" },
-        { "title": "Protective coatings", "body": "", "subtitle": "" },
+        { "title": "Blasting services", "body": "", "subtitle": "" },
         { "title": "Corrosion protection", "body": "", "subtitle": "" },
-        { "title": "NACE standards", "body": "", "subtitle": "" },
-        { "title": "Surface preparation", "body": "", "subtitle": "" }
+        { "title": "Industrial painting", "body": "", "subtitle": "" },
+        { "title": "Asset preservation", "body": "", "subtitle": "" }
       ]
     },
     "section5": {
-      "title": "Equipment Fabrication & Installation",
-      "body": "Custom fabrication and installation of pressure vessels, tanks, heat exchangers, and process equipment. Complete with material traceability, weld documentation, and commissioning support.",
+      "title": "Equipment Fabrication & Assembly",
+      "body": "Precision fabrication of cyclones, bins, hoppers, and assembly of complex industrial equipment packages. Quality inspection at every stage from material verification through final surface treatment and commissioning.",
       "overline": "",
+      "image": "/okochris-images/services/Img4.png",
       "items": [
-        { "title": "Pressure vessel fabrication", "body": "", "subtitle": "" },
-        { "title": "Tank construction", "body": "", "subtitle": "" },
-        { "title": "Heat exchanger installation", "body": "", "subtitle": "" },
-        { "title": "Process equipment", "body": "", "subtitle": "" },
-        { "title": "Material traceability", "body": "", "subtitle": "" },
-        { "title": "Commissioning support", "body": "", "subtitle": "" }
+        { "title": "Cyclone fabrication", "body": "", "subtitle": "" },
+        { "title": "Quality control", "body": "", "subtitle": "" },
+        { "title": "Equipment assembly", "body": "", "subtitle": "" },
+        { "title": "Factory acceptance testing", "body": "", "subtitle": "" }
       ]
     },
     "section6": {
-      "title": "Maintenance & Shutdown Services",
-      "body": "Planned maintenance, turnaround management, and emergency shutdown support for industrial facilities. Experienced in coordinating multi-discipline teams for time-critical projects.",
+      "title": "Maintenance & Shutdowns",
+      "body": "Planned preventive maintenance programs and responsive corrective maintenance services designed to eliminate or drastically reduce unplanned downtime. Each program is meticulously evaluated before execution begins.",
       "overline": "",
+      "image": "/okochris-images/services/Img5.png",
       "items": [
-        { "title": "Planned maintenance", "body": "", "subtitle": "" },
-        { "title": "Turnaround management", "body": "", "subtitle": "" },
-        { "title": "Emergency repairs", "body": "", "subtitle": "" },
-        { "title": "Multi-discipline coordination", "body": "", "subtitle": "" },
+        { "title": "Preventive maintenance", "body": "", "subtitle": "" },
+        { "title": "Emergency response", "body": "", "subtitle": "" },
         { "title": "Shutdown planning", "body": "", "subtitle": "" },
-        { "title": "Technical support", "body": "", "subtitle": "" }
+        { "title": "Asset reliability", "body": "", "subtitle": "" }
       ]
     },
     "section7": {
-      "title": "Equipment Leasing & Manpower Supply",
-      "body": "Rental and leasing of construction equipment, welding machines, and provision of skilled certified personnel for industrial projects.",
+      "title": "Equipment Leasing & Logistics",
+      "body": "Equipment leasing and logistics support services allowing clients to augment operational capacity without capital overhead. Includes vehicles, heavy machinery, and specialized engineering equipment deployment.",
       "overline": "",
+      "image": "/okochris-images/services/Img6.png",
       "items": [
-        { "title": "Equipment rental", "body": "", "subtitle": "" },
-        { "title": "Welding machines", "body": "", "subtitle": "" },
-        { "title": "Certified welders", "body": "", "subtitle": "" },
-        { "title": "Pipe fitters", "body": "", "subtitle": "" },
-        { "title": "Riggers & operators", "body": "", "subtitle": "" },
-        { "title": "Project supervisors", "body": "", "subtitle": "" }
+        { "title": "Heavy equipment leasing", "body": "", "subtitle": "" },
+        { "title": "Project mobilization", "body": "", "subtitle": "" },
+        { "title": "Transportation logistics", "body": "", "subtitle": "" },
+        { "title": "Supply chain support", "body": "", "subtitle": "" }
       ]
     },
     "section8": {
-      "title": "Ready to Start Your Project?",
-      "body": "Let's discuss how we can deliver international-standard engineering services for your facility.",
+      "title": "Manpower Supply",
+      "body": "Structured manpower supply service that identifies, vets, trains, and deploys skilled workers. Covers welders, fitters, riggers, scaffolders, operators, and other skilled engineering roles with full competency assurance.",
+      "overline": "",
+      "image": "/okochris-images/services/Img7.png",
+      "items": [
+        { "title": "Skilled labor supply", "body": "", "subtitle": "" },
+        { "title": "Safety compliance", "body": "", "subtitle": "" },
+        { "title": "Competency verification", "body": "", "subtitle": "" },
+        { "title": "Workforce management", "body": "", "subtitle": "" }
+      ]
+    },
+    "section9": {
+      "title": "Ready to Start?",
+      "body": "Let's discuss how OKOCHRIS Engineering can deliver international-standard services for your facility.",
       "overline": ""
     }
   },
