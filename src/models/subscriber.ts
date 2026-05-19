@@ -1,4 +1,4 @@
-export type SubscriberType = 'enquiry' | 'newsletter' | 'other';
+export type SubscriberType = 'enquiry' | 'newsletter' | 'contact' | 'other';
 
 export interface Subscriber {
   id?: string;
