@@ -65,47 +65,10 @@ export default function BlogPage() {
         <section style={{ background: "#0A0E27", paddingTop: 80, paddingBottom: 40 }}>
           <div className={inner}>
             <Link href={`/blog/${featuredPost.slug}`} style={{ textDecoration: "none" }}>
-              <div style={{ background: "rgba(17,24,66,0.9)", borderRadius: 24, overflow: "hidden", border: "1px solid rgba(255,68,68,0.12)", display: "flex", flexDirection: "column-reverse", minHeight: 400 }} className="md:flex-row hover:border-red-500/30 transition-all group">
+              <div className="featured-card hover:border-red-500/30 transition-all group" style={{ background: "rgba(17,24,66,0.9)", borderRadius: 24, overflow: "hidden", border: "1px solid rgba(255,68,68,0.12)", display: "flex" }}>
                 
-                {/* Content - Left Side */}
-                <div style={{ flex: 1, padding: "clamp(32px, 5vw, 48px)", display: "flex", flexDirection: "column", justifyContent: "center" }}>
-                  <div style={{ display: "flex", alignItems: "center", gap: 12, marginBottom: 20 }}>
-                    <div style={{ background: "#FF4444", color: "#fff", padding: "6px 14px", borderRadius: 6, fontSize: 11, fontWeight: 700, textTransform: "uppercase", letterSpacing: "0.05em" }}>
-                      FEATURED
-                    </div>
-                    <span style={{ color: "rgba(255,255,255,0.5)", fontSize: 13 }}>{featuredPost.stats.readingTime} min read</span>
-                  </div>
-                  
-                  <h2 style={{ color: "#fff", fontSize: "clamp(24px, 4vw, 36px)", fontWeight: 800, marginBottom: 16, lineHeight: 1.2 }}>
-                    {featuredPost.title}
-                  </h2>
-                  <p style={{ color: "rgba(255,255,255,0.7)", fontSize: "clamp(14px, 2vw, 16px)", lineHeight: 1.7, marginBottom: 28 }}>
-                    {featuredPost.excerpt}
-                  </p>
-                  
-                  <div style={{ display: "flex", alignItems: "center", gap: 24, flexWrap: "wrap" }}>
-                    <div style={{ display: "flex", alignItems: "center", gap: 8, color: "rgba(255,255,255,0.5)", fontSize: 13 }}>
-                      <User size={16} />
-                      <span>{featuredPost.author.name}</span>
-                    </div>
-                    <div style={{ display: "flex", alignItems: "center", gap: 8, color: "rgba(255,255,255,0.5)", fontSize: 13 }}>
-                      <Calendar size={16} />
-                      <span>{formatDate(featuredPost.publishedAt || featuredPost.createdAt)}</span>
-                    </div>
-                  </div>
-                  
-                  <div style={{ marginTop: 24 }}>
-                    <div style={{ display: "inline-flex", alignItems: "center", gap: 8, background: "#FF4444", color: "#fff", padding: "12px 28px", borderRadius: 100, fontSize: 14, fontWeight: 600 }}>
-                      Read Article
-                      <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
-                        <path d="M6 12L10 8L6 4" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" />
-                      </svg>
-                    </div>
-                  </div>
-                </div>
-
-                {/* Image - Right Side */}
-                <div style={{ position: "relative", minHeight: 320 }} className="w-full md:w-[45%] md:min-h-full">
+                {/* Image - Left Side */}
+                <div style={{ position: "relative", minHeight: 260 }} className="featured-image">
                   <Image
                     src={featuredPost.featuredMedia.url}
                     alt={featuredPost.featuredMedia.alt || featuredPost.title}
@@ -115,9 +78,64 @@ export default function BlogPage() {
                   />
                 </div>
 
+                {/* Content - Right Side */}
+                <div style={{ flex: 1, padding: "clamp(24px, 4vw, 40px)", display: "flex", flexDirection: "column", justifyContent: "center" }}>
+                  <div style={{ display: "flex", alignItems: "center", gap: 12, marginBottom: 16 }}>
+                    <div style={{ background: "#FF4444", color: "#fff", padding: "4px 10px", borderRadius: 4, fontSize: 10, fontWeight: 700, textTransform: "uppercase", letterSpacing: "0.05em" }}>
+                      FEATURED
+                    </div>
+                    <span style={{ color: "rgba(255,255,255,0.5)", fontSize: 12 }}>{featuredPost.stats.readingTime} min read</span>
+                  </div>
+                  
+                  <h2 style={{ color: "#fff", fontSize: "clamp(20px, 3vw, 28px)", fontWeight: 800, marginBottom: 12, lineHeight: 1.2 }}>
+                    {featuredPost.title}
+                  </h2>
+                  <p style={{ color: "rgba(255,255,255,0.7)", fontSize: "clamp(13px, 1.8vw, 15px)", lineHeight: 1.6, marginBottom: 20 }}>
+                    {featuredPost.excerpt}
+                  </p>
+                  
+                  <div style={{ display: "flex", alignItems: "center", gap: 20, flexWrap: "wrap", marginBottom: 20 }}>
+                    <div style={{ display: "flex", alignItems: "center", gap: 6, color: "rgba(255,255,255,0.5)", fontSize: 12 }}>
+                      <User size={14} />
+                      <span>{featuredPost.author.name}</span>
+                    </div>
+                    <div style={{ display: "flex", alignItems: "center", gap: 6, color: "rgba(255,255,255,0.5)", fontSize: 12 }}>
+                      <Calendar size={14} />
+                      <span>{formatDate(featuredPost.publishedAt || formatDate(featuredPost.createdAt))}</span>
+                    </div>
+                  </div>
+                  
+                  <div>
+                    <div style={{ display: "inline-flex", alignItems: "center", gap: 6, background: "linear-gradient(270deg, #FF4444 0%, #E41F25 73.7%)", color: "#fff", padding: "10px 22px", borderRadius: 100, fontSize: 13, fontWeight: 600 }}>
+                      Read Article
+                      <svg width="14" height="14" viewBox="0 0 16 16" fill="none">
+                        <path d="M6 12L10 8L6 4" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" />
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+
               </div>
             </Link>
           </div>
+          <style dangerouslySetInnerHTML={{ __html: `
+            .featured-card {
+              flex-direction: column !important;
+            }
+            .featured-image {
+              width: 100% !important;
+              min-height: 260px !important;
+            }
+            @media (min-width: 768px) {
+              .featured-card {
+                flex-direction: row !important;
+              }
+              .featured-image {
+                width: 42% !important;
+                min-height: 100% !important;
+              }
+            }
+          ` }} />
         </section>
       )}
 
