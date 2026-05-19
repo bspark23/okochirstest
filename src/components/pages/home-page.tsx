@@ -7,6 +7,7 @@ import { Section, Item, Button } from "@/models/content";
 import { useAppSelector, useAppDispatch } from "@/store/hooks";
 import { useContent } from "@/hooks/use-content";
 import { fetchPosts } from "@/store/slices/blog-slice";
+import { Wrench, Shield, Sparkles, Award } from "lucide-react";
 
 const inner = "max-w-[1440px] mx-auto px-5 md:px-[120px]";
 
@@ -23,6 +24,16 @@ export default function HomePage() {
   const section4 = home?.section4 as Section;
   const section5 = home?.section5 as Section;
   const section6 = home?.section6 as Section;
+
+  const getHomeServiceIcon = (index: number) => {
+    switch (index) {
+      case 0: return <Wrench size={24} color="#FF4444" />;
+      case 1: return <Shield size={24} color="#FF4444" />;
+      case 2: return <Sparkles size={24} color="#FF4444" />;
+      case 3: return <Award size={24} color="#FF4444" />;
+      default: return <Wrench size={24} color="#FF4444" />;
+    }
+  };
 
   useEffect(() => {
     dispatch(fetchPosts({ filters: {}, page: 1, limit: 3 }));
@@ -215,8 +226,12 @@ export default function HomePage() {
                   <Image src={item.image || "/okochris-images/Engineering-services/Img1.png"} alt={item.title} fill style={{ objectFit: "cover" }} className="group-hover:scale-105 transition duration-500" />
                   <div style={{ position: "absolute", inset: 0, background: "linear-gradient(to top, rgba(10,14,39,0.95) 0%, rgba(10,14,39,0.4) 100%)" }} />
                 </div>
-                <div style={{ position: "absolute", bottom: 0, left: 0, right: 0, padding: "32px", zIndex: 1 }}>
-                  <h3 style={{ color: "#fff", fontSize: 22, fontWeight: 700, marginBottom: 8 }}>{item.title}</h3>
+                <div style={{ position: "absolute", bottom: 0, left: 0, right: 0, padding: "32px", zIndex: 1, textAlign: "left" }}>
+                  {/* Red Outline Icon */}
+                  <div style={{ marginBottom: 12, display: "flex", justifyContent: "flex-start" }}>
+                    {getHomeServiceIcon(i)}
+                  </div>
+                  <h3 style={{ color: "#fff", fontSize: 20, fontWeight: 700, marginBottom: 0 }}>{item.title}</h3>
                 </div>
               </Link>
             )) : null}

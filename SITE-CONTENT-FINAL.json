@@ -18,23 +18,28 @@
       ]
     },
     "section3": {
-      "title": "Why Choose Okochris",
-      "body": "We combine local expertise with international standards to deliver exceptional engineering solutions tailored to your unique needs.",
+      "title": "Core Values",
+      "body": "Non-negotiable principles governing every decision, conversation, and project execution.",
       "overline": "",
       "items": [
         {
-          "title": "Local Expertise, Global Standards",
-          "body": "We understand the Nigerian market while maintaining international quality standards in everything we do.",
+          "title": "Integrity",
+          "body": "We are honest about what we can deliver, transparent when challenges arise, and consistent in doing what we say we will do.",
           "subtitle": ""
         },
         {
-          "title": "End-to-End Solutions",
-          "body": "From concept to execution, we handle every aspect of your engineering needs with precision and care.",
+          "title": "Innovation",
+          "body": "The most effective engineering solutions are not always the most obvious ones. We invest in finding better methods and smarter processes.",
           "subtitle": ""
         },
         {
-          "title": "Proven Track Record",
-          "body": "Years of delivering excellence across piping, mechanical structures, and industrial equipment fabrication.",
+          "title": "Resilience",
+          "body": "Our team is trained and conditioned to solve problems, maintain quality under pressure, and deliver results regardless of obstacles.",
+          "subtitle": ""
+        },
+        {
+          "title": "Leadership",
+          "body": "We lead through the quality of our work, the clarity of our communication, and the accountability of our people.",
           "subtitle": ""
         }
       ]

@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { Calendar, ArrowRight } from "lucide-react";
+import { Calendar } from "lucide-react";
 
 const inner = "max-w-[1440px] mx-auto px-5 md:px-[120px]";
 
@@ -163,11 +163,6 @@ export default function ProjectsPage() {
                   <p style={{ color: "rgba(255,255,255,0.7)", fontSize: "clamp(13px, 1.8vw, 15px)", lineHeight: 1.7, marginBottom: 0 }}>
                     {project.description}
                   </p>
-                </div>
-
-                {/* Arrow Icon */}
-                <div style={{ flexShrink: 0, opacity: 0.5 }} className="group-hover:opacity-100 group-hover:translate-x-1 transition-all">
-                  <ArrowRight size={24} color="rgba(255,255,255,0.6)" />
                 </div>
 
               </div>

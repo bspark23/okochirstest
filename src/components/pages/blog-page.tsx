@@ -105,12 +105,12 @@ export default function BlogPage() {
                 </div>
 
                 {/* Image - Right Side */}
-                <div style={{ flex: "0 0 auto", position: "relative", height: 350, width: "100%" }} className="md:w-[45%] md:h-auto">
+                <div style={{ position: "relative", minHeight: 320 }} className="w-full md:w-[45%] md:min-h-full">
                   <Image
                     src={featuredPost.featuredMedia.url}
                     alt={featuredPost.featuredMedia.alt || featuredPost.title}
                     fill
-                    style={{ objectFit: "cover" }}
+                    style={{ objectFit: "cover", objectPosition: "center" }}
                     priority
                   />
                 </div>
