@@ -39,6 +39,7 @@ export class ApiService {
     if (token) headers.Authorization = `Bearer ${token}`;
 
     const response = await fetch(url, {
+      cache: "no-store",
       ...options,
       headers,
     });
